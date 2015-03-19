@@ -36,7 +36,7 @@ In case that you have any support inquiries, feel free to contact me.
 
 == Screenshots ==
 
-1. This screen shot description corresponds to readmorescreenshot.jpg. This screenshot shows the actual functionality of the plugin.
+1. Read More button deactivated
 
 == Changelog ==
 
