@@ -23,7 +23,7 @@ Feel free to try it <a target="_blank" href="http://apps.8web.gr/demos/wordpress
 All you have to do is upload the plugin within your Wordpress Plugins menu and activate it. 
 Then, you can add the shortcode everywhere you want (pages, posts, widgets etc): 
 
-[read more="Read more" less="Read less"] Your hidden text here [/read] 
+<strong>[read more="Read more" less="Read less"] Your hidden text here [/read]</strong> 
 
 You can, of course, change "Read more" and "Read less" to whatever you want.
 In case that you have any support inquiries, feel free to contact me.
@@ -32,7 +32,7 @@ In case that you have any support inquiries, feel free to contact me.
 
 = Is it complatible with every Wordpress version? =
 
-Yes it is!
+<	strong>Yes</strong> it is!
 
 == Screenshots ==
 
