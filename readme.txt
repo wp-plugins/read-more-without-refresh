@@ -36,7 +36,8 @@ In case that you have any support inquiries, feel free to contact me.
 
 == Screenshots ==
 
-1. Read More button deactivated
+1. Read More button Deactivated
+2. Read More button Activated (after click)
 
 == Changelog ==
 
