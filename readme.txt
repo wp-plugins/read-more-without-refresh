@@ -15,7 +15,7 @@ Read more/Read less Modal Javascript Plugin
 This plugin hides the text that you will choose to hide, leaving the other selected one visible to the search engines, maximizing your SEO, but hidden from public in order to provide better user experience.<br>
 <br>Once you press <b>"Read more" button</b>, it will <b>expand</b>. <br>
 You can also hide it again by pressing the same button, which is now converted to <b>"Read less"</b>.<br><br>
-It works via a shortcode and can be placed everywhere!<br>Usage:<b>[read more="Read more" less="Read less"] Your long text [/read]</b><br>
+It works via a shortcode and can be placed everywhere!<br>Usage: <strong>[read more="Read more" less="Read less"] Your long text [/read]</strong><br>
 Feel free to try it <a href="http://apps.8web.gr/demos/wordpress-read-more-without-refresh-plugin/">HERE</a>
 
 == Installation ==
