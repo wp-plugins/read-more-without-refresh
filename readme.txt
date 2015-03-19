@@ -32,7 +32,7 @@ In case that you have any support inquiries, feel free to contact me.
 
 = Is it complatible with every Wordpress version? =
 
-<	strong>Yes</strong> it is!
+<strong>Yes</strong> it is!
 
 == Screenshots ==
 
